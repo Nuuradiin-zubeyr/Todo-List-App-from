@@ -7,8 +7,13 @@ let categories = [
     title: "Work",
     img: "briefcase.png",
   },
+  
   {
     title: "Shopping",
+    img: "shopping.png",
+  },
+  {
+    title: "vacation",
     img: "shopping.png",
   },
   {
@@ -22,6 +27,10 @@ let categories = [
   {
     title: "Fitness",
     img: "dumbbell.png",
+  },
+  {
+    title: "Freelancing",
+    img: "briefcase.png",
   },
   {
     title: "Education",
